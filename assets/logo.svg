@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 110" role="img" aria-label="Innovativa SST">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#1e3a8a"/></linearGradient></defs>
+  <rect x="4" y="12" width="82" height="82" rx="22" fill="url(#g)"/>
+  <path d="M27 56l14 14 26-31" fill="none" stroke="#f97316" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="104" y="56" font-family="Arial, sans-serif" font-size="42" font-weight="800" fill="#0f172a">Innovativa</text>
+  <text x="106" y="82" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#64748b" letter-spacing="2">MEDICINA &amp; SST</text>
+</svg>
