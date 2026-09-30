@@ -1,0 +1,15 @@
+# Environment / deployment secrets
+.env
+.env.*
+*.local
+
+# Runtime / logs
+*.log
+logs/
+cache/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
