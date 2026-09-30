@@ -1,0 +1,11 @@
+ATIVAÇÃO DO ENVIO DE PROPOSTAS — INNOVATIVA
+
+1. Publique a pasta em uma hospedagem com PHP 8 ou superior e função mail habilitada.
+2. Abra api/config.php.
+3. Substitua CONFIGURAR_EMAIL_COMERCIAL pelo e-mail que receberá os novos contatos.
+4. Substitua CONFIGURAR_EMAIL_REMETENTE por um e-mail do domínio configurado na hospedagem.
+5. Faça um teste real e confirme também a caixa de spam.
+
+Os dados de nome, empresa, WhatsApp, e-mail e proposta são enviados ao possível cliente e ao e-mail comercial. Nenhuma senha fica no navegador.
+
+Ao abrir os HTMLs diretamente no computador, o site e o WhatsApp funcionam, mas o envio de e-mail exige publicação em servidor PHP.
